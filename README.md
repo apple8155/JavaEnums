@@ -1,0 +1,2 @@
+# JavaEnums
+Enums example
